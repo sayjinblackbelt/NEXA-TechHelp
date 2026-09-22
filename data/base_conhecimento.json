@@ -1,0 +1,87 @@
+[
+  {
+    "categoria": "Windows",
+    "problema": "computador lento",
+    "sintomas": [
+      "sistema lento",
+      "aplicativos demorando para abrir",
+      "travamentos"
+    ],
+    "perguntas": [
+      "O problema começou recentemente?",
+      "A lentidão ocorre desde a inicialização?",
+      "Acontece em todos os aplicativos?"
+    ],
+    "orientacoes": [
+      "Verificar aplicativos abertos.",
+      "Verificar espaço disponível.",
+      "Verificar aplicativos iniciados automaticamente.",
+      "Verificar atualizações.",
+      "Reiniciar o computador."
+    ],
+    "nivel_risco": "baixo"
+  },
+  {
+    "categoria": "Internet",
+    "problema": "internet não funciona",
+    "sintomas": [
+      "sem conexão",
+      "Wi-Fi conectado sem internet",
+      "sites não carregam"
+    ],
+    "perguntas": [
+      "O problema ocorre em um ou vários dispositivos?",
+      "O dispositivo está conectado ao Wi-Fi?",
+      "O roteador está ligado?"
+    ],
+    "orientacoes": [
+      "Verificar outros dispositivos.",
+      "Verificar o roteador.",
+      "Reconectar à rede.",
+      "Reiniciar o dispositivo."
+    ],
+    "nivel_risco": "baixo"
+  },
+  {
+    "categoria": "Segurança digital",
+    "problema": "phishing",
+    "sintomas": [
+      "mensagem suspeita",
+      "pedido de senha",
+      "link desconhecido",
+      "pedido urgente"
+    ],
+    "perguntas": [
+      "A mensagem era esperada?",
+      "Ela solicita senha, código ou dados pessoais?",
+      "O remetente e o endereço parecem legítimos?"
+    ],
+    "orientacoes": [
+      "Não clicar em links suspeitos.",
+      "Não compartilhar senhas.",
+      "Não compartilhar códigos de autenticação.",
+      "Verificar o serviço pelo canal oficial."
+    ],
+    "nivel_risco": "baixo"
+  },
+  {
+    "categoria": "Hardware",
+    "problema": "computador não liga",
+    "sintomas": [
+      "sem energia",
+      "nenhum indicador",
+      "equipamento não inicia"
+    ],
+    "perguntas": [
+      "O equipamento está conectado à energia?",
+      "Há sinal de alimentação?",
+      "É desktop ou notebook?"
+    ],
+    "orientacoes": [
+      "Verificar tomada e cabos externos.",
+      "Em notebook, verificar o carregador.",
+      "Persistindo o problema, procurar suporte técnico."
+    ],
+    "nivel_risco": "baixo"
+  }
+]
