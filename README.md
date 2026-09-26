@@ -73,7 +73,7 @@ Protótipo em desenvolvimento. As métricas finais dependem da execução dos ce
 
 ## Tecnologias
 
-Python · Streamlit · OpenAI API · JSON · python-dotenv
+Python · Streamlit · Google Gemini API · JSON · python-dotenv
 
 ## Lab de origem
 
